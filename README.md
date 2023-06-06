@@ -1,6 +1,8 @@
-# RLR-OFMaps
+# Raincoat Land Reborn - Custom Maps
 A repository of custom maps for the Raincoat Land Reborn Open Fortress server!  
 This repository is used as a `sv_downloadurl` for a server I host in Open Fortress. It allows fast and hopefully seamless downloading of custom maps and other assets!  
+
+The download is hosted on GitHub Pages [with the link here](https://toxxythetrash.github.io/RLR-OFMaps/open_fortress/)
  
 ## Map Sources:  
 **dm_upward** - https://gamebanana.com/mods/298050  
