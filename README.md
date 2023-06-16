@@ -11,5 +11,5 @@ The download is hosted on GitHub Pages [with the link here](https://toxxythetras
 **dm_decoy** - https://gamebanana.com/mods/308687  
 **dm_ghost_town** - https://gamebanana.com/mods/151098  
 **dm_thousands** - https://gamebanana.com/mods/385128  
-**dm_wpndepot** - https://gamebanana.com/mods/385128  
+**dm_forerunner** - https://gamebanana.com/mods/448917  
 **dm_purple** - https://gamebanana.com/mods/385024  
